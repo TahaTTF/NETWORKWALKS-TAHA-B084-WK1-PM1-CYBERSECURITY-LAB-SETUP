@@ -122,12 +122,6 @@ I reviewed other students' troubleshooting comments and replied to a student exp
 - Keeping a snapshot after a successful setup makes later experimentation safer.
 - Sharing a tested solution can help other students facing the same issue.
 
-## Next steps
-
-- Resolve and verify VirtualBox Guest Additions integration.
-- Test bidirectional clipboard and drag-and-drop.
-- Verify access to the Windows Downloads shared folder from Kali.
-- Add any further verified evidence to this repository.
 
 ---
 

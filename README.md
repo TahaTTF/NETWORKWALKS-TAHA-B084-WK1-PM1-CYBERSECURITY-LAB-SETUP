@@ -96,9 +96,6 @@ After confirming the working network configuration, I shut down Kali and created
 
 ![Snapshot successfully created](screenshots/snapshot_2.png)
 
-## Guest integration: remaining verification
-
-Shared clipboard, drag-and-drop, and the Windows Downloads shared folder were part of the setup objectives. I encountered a Guest Additions integration issue, so I have **not marked these features as successfully verified**. The working network and recovery snapshot were completed first; guest integration can be repaired and tested separately.
 
 ## YouTube community participation
 
